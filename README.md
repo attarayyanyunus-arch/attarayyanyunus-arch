@@ -1,4 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:071A2E,50:075985,100:06B6D4&height=200&section=header&text=Ayyan%20Yunus%20Attar&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18)
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A2E,50:075985,100:06B6D4&amp;height=200&amp;section=header&amp;text=Ayyan%20Yunus%20Attar&amp;fontSize=38&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%" />
+</p>
 
 <div align="center">
 
@@ -6,6 +8,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/attarayyanyunus-arch)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayyan-yunus-attar-b96218419/)
+
+📍 Majalgaon, Maharashtra, India
 
 </div>
 
@@ -17,19 +21,19 @@ Hello! I'm **Ayyan Yunus Attar**, a B.Tech Computer Engineering student from Mah
 
 - ☁️ Interested in Cloud Computing and DevOps
 - 🌱 Learning AWS, Web Development and Artificial Intelligence
-- 💻 Building beginner-friendly projects and improving my technical skills
+- 💻 Building projects and improving my technical skills
 - 🎯 Focused on practical learning and career development
 - 🤝 Open to learning opportunities and collaborations
 
 ## 💼 Work & Experience
 
-**AWS & DevOps Internship — EWB Edu Tech**
+### AWS & DevOps Internship — EWB Edu Tech
 
+- Explored AWS cloud networking concepts.
 - Worked on an AWS VPC Peering project.
-- Explored cloud networking concepts.
 - Learned about connecting private networks using AWS VPC Peering.
 
-**Virtual Experience Programs**
+### Virtual Experience Programs
 
 - BCG — GenAI Consulting
 - BCG — Data Science & Analytics
@@ -74,7 +78,7 @@ Hello! I'm **Ayyan Yunus Attar**, a B.Tech Computer Engineering student from Mah
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/attarayyanyunus-arch/attarayyanyunus-arch/output/github-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/attarayyanyunus-arch/attarayyanyunus-arch/output/github-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
 
 </div>
 
@@ -86,8 +90,6 @@ Hello! I'm **Ayyan Yunus Attar**, a B.Tech Computer Engineering student from Mah
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/attarayyanyunus-arch)
 
-📍 Majalgaon, Maharashtra, India
-
 </div>
 
 ---
@@ -98,6 +100,6 @@ Hello! I'm **Ayyan Yunus Attar**, a B.Tech Computer Engineering student from Mah
 
 *Every day is an opportunity to learn something new.*
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2E&height=120&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:075985,100:071A2E&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
