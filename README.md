@@ -1,6 +1,5 @@
- <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:071A2E,50:075985,100:06B6D4&amp;height=200&amp;section=header&amp;text=Ayyan%20Yunus%20Attar&amp;fontSize=38&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20%26%20DevOps%20Enthusiast&amp;descAlignY=55&amp;descSize=18" width="100%" />
-</p>
+
+![Ayyan Yunus Attar - Animated Header](https://capsule-render.vercel.app/api?type=waving&color=0:071A2E,50:075985,100:06B6D4&height=200&section=header&text=Ayyan%20Yunus%20Attar&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Enthusiast&descAlignY=55&descSize=18)
 
 <div align="center">
 
@@ -100,6 +99,6 @@ Hello! I'm **Ayyan Yunus Attar**, a B.Tech Computer Engineering student from Mah
 
 *Every day is an opportunity to learn something new.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:075985,100:071A2E&amp;height=120&amp;section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:075985,100:071A2E&height=120&section=footer" width="100%" />
 
 </div>
